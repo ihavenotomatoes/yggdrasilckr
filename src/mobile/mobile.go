@@ -12,12 +12,12 @@ import (
 	"github.com/neilalexander/yggdrasilckr/src/ckriprwc"
 	"github.com/neilalexander/yggdrasilckr/src/config"
 
-	"github.com/yggdrasil-network/yggdrasil-go/src/address"
-	yggcfg "github.com/yggdrasil-network/yggdrasil-go/src/config"
-	"github.com/yggdrasil-network/yggdrasil-go/src/core"
-	"github.com/yggdrasil-network/yggdrasil-go/src/multicast"
-	"github.com/yggdrasil-network/yggdrasil-go/src/tun"
-	"github.com/yggdrasil-network/yggdrasil-go/src/version"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/address"
+	yggcfg "github.com/ihavenotomatoes/yggdrasil-go/src/config"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/core"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/multicast"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/tun"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/version"
 
 	_ "golang.org/x/mobile/bind"
 )

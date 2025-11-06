@@ -5,7 +5,7 @@ import (
 	"io"
 
 	"github.com/hjson/hjson-go/v4"
-	yggcfg "github.com/yggdrasil-network/yggdrasil-go/src/config"
+	yggcfg "github.com/ihavenotomatoes/yggdrasil-go/src/config"
 	"golang.org/x/text/encoding/unicode"
 )
 

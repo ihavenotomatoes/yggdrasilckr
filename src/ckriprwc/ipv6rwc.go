@@ -12,8 +12,8 @@ import (
 	"golang.org/x/net/icmp"
 	"golang.org/x/net/ipv6"
 
-	"github.com/yggdrasil-network/yggdrasil-go/src/address"
-	"github.com/yggdrasil-network/yggdrasil-go/src/core"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/address"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/core"
 )
 
 const keyStoreTimeout = 2 * time.Minute

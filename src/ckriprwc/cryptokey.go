@@ -12,7 +12,7 @@ import (
 	"github.com/gologme/log"
 
 	"github.com/neilalexander/yggdrasilckr/src/config"
-	"github.com/yggdrasil-network/yggdrasil-go/src/address"
+	"github.com/ihavenotomatoes/yggdrasil-go/src/address"
 )
 
 type cryptokey struct {
