@@ -9,7 +9,7 @@ require (
 	github.com/gologme/log v1.3.0
 	github.com/hashicorp/go-syslog v1.0.0
 	github.com/hjson/hjson-go/v4 v4.4.0
-	github.com/ihavenotomatoes/yggdrasil-go v0.5.13-0.20251026201015-883669c91dd0
+	github.com/ihavenotomatoes/yggdrasil-go v0.5.13-0.20251102235433-1cf38abcf848
 	github.com/kardianos/minwinsvc v1.0.2
 	github.com/vishvananda/netlink v1.3.0
 	golang.org/x/mobile v0.0.0-20241016134751-7ff83004ec2c
